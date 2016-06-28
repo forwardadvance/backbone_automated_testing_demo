@@ -5,7 +5,6 @@ module.exports = {
     specs: "./source/specs.js"
   },
   output: {
-
     filename: "./build/[name].build.js"
   },
   resolve: {
